@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kazino-s-frispinami2.github.io/sitemap.xml
